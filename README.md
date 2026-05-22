@@ -158,7 +158,7 @@ Dans la section `#competences` :
 Dans la section `#experiences`, à l'intérieur du `div.exp-grid` :
 ```html
 <div class="exp-card">
-  <div class="exp-year">2019 – 2022</div>
+  <div class="exp-year">2026</div>
   <div class="exp-role">Conception Robotique & CAO</div>
   <div class="exp-company">BTS Informatique · Projet transversal</div>
   <p class="exp-desc">
@@ -171,7 +171,7 @@ Dans la section `#experiences`, à l'intérieur du `div.exp-grid` :
 
 ### Mettre à jour les liens de contact
 ```html
-<a href="mailto:votre@email.com" class="contact-link">✉ votre@email.com</a>
+<a href="mailto:votre@email.com" class="contact-link">✉ riantsoa.tony@gmail.com</a>
 <a href="https://github.com/votre-profil" class="contact-link">⌥ GitHub</a>
 <a href="https://linkedin.com/in/votre-profil" class="contact-link">◈ LinkedIn</a>
 ```
